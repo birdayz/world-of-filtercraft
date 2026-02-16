@@ -22,7 +22,7 @@
 ## Environment
 
 - Match reference card: deep midnight blue/purple gradient background, magical particles, faint arcane symbols
-- Ornate gold filigree border with Celtic knotwork and runes, but with **vines, chalices, and elixir/potion motifs** woven into the border corners and edges. Unique border for this card.
+- Ornate gold filigree border with Celtic knotwork and runes, but with **vines, chalices, and sacred spring/water source (Quelle) motifs** - show flowing water from a sacred spring in the borders, NOT alchemy bottles or potions woven into the border corners and edges. Unique border for this card.
 
 ## Critical Requirements
 

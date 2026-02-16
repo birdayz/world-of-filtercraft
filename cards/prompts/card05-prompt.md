@@ -22,7 +22,7 @@
 ## Environment
 
 - Match reference card: deep midnight blue/purple gradient background, magical particles, faint arcane symbols
-- Ornate gold filigree border with Celtic knotwork and runes, but with **stone pillars, laurel wreaths, and monument motifs** woven into the border corners and edges. Unique border for this card.
+- Ornate gold filigree border with Celtic knotwork and runes, but with **heroic statues (both male and female hero figures), laurel wreaths, and monument motifs** - the statues in the corners should depict heroic figures, gender-balanced (not pillars or church towers) woven into the border corners and edges. Unique border for this card.
 
 ## Critical Requirements
 

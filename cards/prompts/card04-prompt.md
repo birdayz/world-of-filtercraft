@@ -10,7 +10,7 @@
 ## Layout & Composition
 
 1. **Top banner**: Small text "Epische Ereigniskarte" in elegant gold serif font
-2. **Icon area**: A detailed gold emblem of an antique magic lamp with mystical smoke/genie emerging, rendered in a heraldic/medallion style (same medallion frame as reference)
+2. **Icon area**: A detailed gold emblem of an antique magic lamp with a powerful Dschin (genie) emerging from mystical smoke, rendered in a heraldic/medallion style (same medallion frame as reference)
 3. **Title**: Large dramatic fantasy lettering reading exactly: **Der Ruf des Ewigen Geistes** - gold text with subtle glow effect
 4. **Stats bar**: A horizontal bar or panel below the title showing game stats in same style as reference:
    - **Magie: +100** (wand icon)
@@ -22,7 +22,7 @@
 ## Environment
 
 - Match reference card: deep midnight blue/purple gradient background, magical particles, faint arcane symbols
-- Ornate gold filigree border with Celtic knotwork and runes, but with **swirling smoke, magic lamps, and mystical spirit motifs** woven into the border corners and edges. Unique border for this card.
+- Ornate gold filigree border with Celtic knotwork and runes, but with **swirling smoke, magic lamps, and Dschin/genie motifs** woven into the border corners and edges. Unique border for this card.
 
 ## Critical Requirements
 

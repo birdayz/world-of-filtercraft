@@ -18,7 +18,7 @@
    - **Heimlichkeit: 19**
    - **Intelligenz: 15**
 6. **NLP-Pfad**: **Struktur: Optional | Fokus: Weg-von | Maßstab: Internal**
-7. **Magischer Filter**: **Schleier der Einsamkeit**
+7. **Magischer Filter**: **Umhang der Unsichtbarkeit**
 8. **Description**: **Regeln sind Fesseln für deinen Geist. Du findest immer einen kreativen Ausweg. Du willst Gefahr und Kontrolle vermeiden und vertraust nur deinem eigenen elfischen Instinkt.**
 9. **Bottom**: **World of Filtercraft**
 

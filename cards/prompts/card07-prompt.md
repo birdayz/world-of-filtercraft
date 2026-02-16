@@ -15,7 +15,7 @@
 4. **Stats bar**: A horizontal bar or panel below the title showing game stats in same style as reference:
    - **Diplomatie: +100** (dove icon)
    - **Ruhm: +70** (star icon)
-5. **Description area**: A parchment-colored text panel with elegant serif text reading exactly: **Deine bloße Präsenz beendet die Feindseligkeit. Ewiger Weltfrieden bricht in allen Kontinenten an. Die Schwerter werden zu Pflugscharen umgeschmiedet.**
+5. **Description area**: A parchment-colored text panel with elegant serif text reading exactly: **Du erhältst das Banner des Ewigen Bundes! Deine bloße Präsenz beendet die Feindseligkeit. Ewiger Weltfrieden bricht in allen Kontinenten an. Die Schwerter werden zu Pflugscharen umgeschmiedet.**
 6. **Flavor/lore text**: Below the description panel, a short italic quote in smaller gold text: *"An dem Tag, als die Schwerter schwiegen, sang die Welt."*
 7. **Bottom branding**: Text reading **World of Filtercraft** in smaller gold lettering
 
