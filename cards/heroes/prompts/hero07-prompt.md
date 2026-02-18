@@ -14,7 +14,7 @@ This is a hero/character card for a tabletop RPG. Layout from top to bottom:
 1. **Top banner**: Small text "Heldenklasse" in elegant gold serif font
 2. **Race & Class**: Large dramatic fantasy lettering reading exactly: **Nachtelf-Druide** - gold text with subtle glow
 3. **Subtitle**: Below the title in smaller elegant text: **Bewahrer des Ewigen**
-4. **Character portrait area**: A gold-framed circular or shield-shaped portrait of a FEMALE night elf druid with dark purple skin, glowing silver eyes, antler crown, robes of leaves and bark, ancient tree staff. Heraldic, stylized, not photorealistic. The druid is a WOMAN.
+4. **Character portrait area**: A gold-framed circular or shield-shaped portrait of a FEMALE night elf druid with dark purple skin, glowing silver eyes, antler crown, voluptuous curvy figure, robes of leaves and bark, glowing crystal-tipped staff, crescent moon behind her. Heraldic, stylized, not photorealistic. The druid is a WOMAN with a full, curvy physique.
 5. **Stats section**: Three stat values displayed in a clean fantasy UI bar. IMPORTANT: exactly ONE small icon per stat, no duplicates.
    - **Willenskraft: 20** (flame icon)
    - **Ausdauer: 18** (shield icon)
