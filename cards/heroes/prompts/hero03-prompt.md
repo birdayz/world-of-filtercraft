@@ -1,7 +1,7 @@
 # Hero Card - "Gnom-Erzmagier"
 
 ## Reference Images
-- hero01_mensch_paladin.png (DESIGN reference - match this card's exact layout, typography, stat bar style, and overall structure)
+- hero_base_reference.png (DESIGN reference - match this card's exact layout, typography, stat bar style, and overall structure)
 
 ## Technical Specifications
 - **Format**: Tarot card, portrait orientation, 9:16 aspect ratio
