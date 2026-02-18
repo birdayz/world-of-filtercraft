@@ -14,7 +14,7 @@ This is a coaching instruction card. Layout is horizontal (landscape), designed 
 
 1. **Top banner**: Small text "Coaching-Station" in elegant gold serif font
 2. **Station number & title**: Large dramatic fantasy lettering: **Station 4 — Core Transformation** - gold text with subtle glow
-3. **Goal section**: A highlighted banner or box reading: **Ziel: Der Coach führt den Helden von der Verhaltensebene zu einem tieferen inneren Zustand.**
+3. **Goal section**: A highlighted banner or box reading: **Ziel: Der Coach führt den Helden von der Verhaltensebene zu einem höheren inneren Zustand.**
 4. **Steps section**: Five clearly numbered steps in a single centered column on a parchment-colored panel, each with a bold step title and instruction text below:
 
    **Schritt 1 — Kontakt mit dem Gedanken herstellen**
@@ -36,10 +36,10 @@ This is a coaching instruction card. Layout is horizontal (landscape), designed 
 
 ## Environment
 
-- **Background**: Deep midnight blue to dark purple gradient, matching the card universe
-- **Border**: Ornate gold filigree border with **glowing crystals, concentric circles, and inner light motifs** in the corners. Transformation-themed.
-- **Color accent**: Warm gold and radiant white/pearl
-- Decorative element: A small gold emblem of a glowing crystal or diamond above the title
+- **Background**: Deep cosmic space — nebulae, distant planets, stars, and galaxies. Transcendent and vast. This is about something bigger than physical existence on earth. NO wizard or mage figures.
+- **Border**: Ornate gold filigree border with **stars, planets, nebula swirls, and cosmic light motifs** in the corners. Space/transcendence-themed.
+- **Color accent**: Deep space blue, cosmic purple, starlight gold and radiant white
+- Decorative element: A small gold emblem of a radiant star or cosmic diamond above the title
 
 ## Critical Requirements
 

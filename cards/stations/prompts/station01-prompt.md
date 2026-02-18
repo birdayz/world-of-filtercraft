@@ -17,17 +17,17 @@ This is a coaching instruction card. Layout is horizontal (landscape), designed 
 3. **Goal section**: A highlighted banner or box reading: **Ziel: Der Coach hilft dem Helden, seinen stressauslösenden Gedanken sichtbar zu machen und Abstand dazu zu gewinnen.**
 4. **Steps section**: Four clearly numbered steps in a single centered column on a parchment-colored panel, each with a bold step title and instruction text below:
 
-   **Schritt 1 — Ereignis aktivieren**
-   Bitte den Helden, seine Ereigniskarte laut vorzulesen.
-
-   **Schritt 2 — Gedanken erheben**
+   **Schritt 1 — Gedanken erheben**
    Frage nach dem ersten Gedanken, der Überforderung oder Stress auslöst. Hilf ggf. mit dem Satzanfang: „Wenn das passiert, dann ..."
 
-   **Schritt 3 — Gedanken fixieren**
+   **Schritt 2 — Gedanken fixieren**
    Lass den Helden den Gedanken als vollständigen Glaubenssatz formulieren: „Ich glaube, dass ..."
 
-   **Schritt 4 — Distanz herstellen**
+   **Schritt 3 — Distanz herstellen**
    Leite den Helden an, den Gedanken innerlich wie ein Ausstellungsstück zu betrachten. Der Gedanke wird angeschaut, nicht bewertet.
+
+   **Schritt 4 — Verstauen**
+   Bitte den Helden, sich bei seinem Ausstellungsstück zu bedanken und einen guten Platz im Museum zu suchen und zu verstauen.
 
 5. **Bottom branding**: **World of Filtercraft**
 

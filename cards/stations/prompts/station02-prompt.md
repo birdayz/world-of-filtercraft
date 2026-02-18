@@ -14,7 +14,7 @@ This is a coaching instruction card. Layout is horizontal (landscape), designed 
 
 1. **Top banner**: Small text "Coaching-Station" in elegant gold serif font
 2. **Station number & title**: Large dramatic fantasy lettering: **Station 2 — Die Mentoren-Technik** - gold text with subtle glow
-3. **Goal section**: A highlighted banner or box reading: **Ziel: Der Coach aktiviert zusätzliche Ressourcen durch einen Perspektivwechsel.**
+3. **Goal section**: A highlighted banner or box reading: **Ziel: Der Coach aktiviert verschüttete Ressourcen durch einen Perspektivwechsel.**
 4. **Steps section**: Five clearly numbered steps on a parchment-colored panel, each with a bold step title and instruction text:
 
    **Schritt 1 — Mentor auswählen lassen**
