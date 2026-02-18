@@ -18,7 +18,7 @@ Ein uraltes Artefakt aktiviert sich in deiner Hand: Du erhältst die Schlüssel 
 
 \--------------------------------------------------
 
-**Der Ruf des Ewigen Geistes**
+**Der Ruf des Dschinn**
 
 Du reibst an einer antiken Lampe. Ein mächtiger Geist erscheint aus dem blauen Nebel und gewährt dir sofort drei Wünsche, die ohne Wenn und Aber wahr werden.
 
@@ -38,7 +38,7 @@ Du trinkst aus einer heiligen, verborgenen Quelle. Ab sofort besitzt du unendlic
 
 **Das Banner des Ewigen Bundes**
 
-Deine bloße Präsenz beendet die Feindseligkeit. Ewiger Weltfrieden bricht in allen Kontinenten an. Die Schwerter werden zu Pflugscharen umgeschmiedet.
+Du erhältst das Banner des Ewigen Bundes! Seine Macht beendet die Feindseligkeit. Ewiger Weltfrieden bricht in allen Kontinenten an. Die Schwerter werden zu Pflugscharen umgeschmiedet.
 
 \--------------------------------------------------
 

@@ -12,10 +12,10 @@ This is a hero/character card for a tabletop RPG. Layout from top to bottom:
 2. **Race & Class**: Large dramatic fantasy lettering reading exactly: **Mensch-Paladin** - gold text with subtle glow
 3. **Subtitle**: Below the title in smaller elegant text: **Hüter des Kodex**
 4. **Character portrait area**: A gold-framed circular or shield-shaped portrait of a noble human paladin in shining armor, holding a codex/book and a glowing sword. Heraldic, stylized, not photorealistic.
-5. **Stats section**: Three stat values displayed in a clean fantasy UI bar:
-   - **Ausdauer: 20** (stamina/endurance icon)
-   - **Willenskraft: 18** (mind/willpower icon)
-   - **Stärke: 15** (strength/fist icon)
+5. **Stats section**: Three stat values displayed in a clean fantasy UI bar. IMPORTANT: exactly ONE small icon per stat, no duplicates.
+   - **Ausdauer: 20** (shield icon)
+   - **Willenskraft: 18** (flame icon)
+   - **Stärke: 15** (fist icon)
 6. **NLP-Pfad section**: A distinct panel showing meta-programs:
    - **Struktur: Prozedural | Fokus: Hin-zu | Maßstab: External**
 7. **Magischer Filter**: A highlighted box or banner reading: **Siegel der Ordnung**

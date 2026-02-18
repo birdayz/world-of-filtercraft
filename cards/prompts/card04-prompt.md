@@ -1,4 +1,4 @@
-# Fantasy Event Card - "Der Ruf des Ewigen Geistes"
+# Fantasy Event Card - "Der Ruf des Dschinn"
 
 ## Reference Images
 - 01_hort_des_weltenfressers.png (style reference - match this card's exact design language, layout, typography, and stats bar style)
@@ -11,7 +11,7 @@
 
 1. **Top banner**: Small text "Epische Ereigniskarte" in elegant gold serif font
 2. **Icon area**: A detailed gold emblem of an antique magic lamp with a powerful Dschin (genie) emerging from mystical smoke, rendered in a heraldic/medallion style (same medallion frame as reference)
-3. **Title**: Large dramatic fantasy lettering reading exactly: **Der Ruf des Ewigen Geistes** - gold text with subtle glow effect
+3. **Title**: Large dramatic fantasy lettering reading exactly: **Der Ruf des Dschinn** - gold text with subtle glow effect
 4. **Stats bar**: A horizontal bar or panel below the title showing game stats in same style as reference:
    - **Magie: +100** (wand icon)
    - **Wünsche: 3** (star icon)
